@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Vishal%20Halgare&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishalhalgare@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-halgare"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/vishalhalgare-alt"><img src="https://img.shields.io/badge/GitHub-2575fc?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
