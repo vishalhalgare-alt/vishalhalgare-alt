@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Vishal%20Halgare&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Vishal%20Halgare&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,12 +17,12 @@
 
 </div>
 
-I'm a **Software Engineer** passionate about building scalable full-stack applications and exploring the frontier of Artificial Intelligence. I focus on writing clean, maintainable code and solving real-world problems through thoughtful engineering.
+I'm a **Data Scientist** passionate about turning raw data into actionable insights through statistical modeling, machine learning, and intelligent automation. I focus on building end-to-end data pipelines and deploying models that solve real-world problems.
 
-- 🔭 Building production-grade full-stack systems with modern JavaScript ecosystems
-- 🤖 Exploring AI-driven tooling and intelligent automation
-- 🌱 Deepening expertise in system design and scalable architecture
-- 💡 Passionate about developer experience and clean code practices
+- 🔭 Building end-to-end ML pipelines from data ingestion to deployment
+- 🤖 Exploring Deep Learning, NLP, and Generative AI applications
+- 🌱 Deepening expertise in MLOps and scalable model deployment
+- 💡 Passionate about data storytelling and explainable AI
 - 📫 Reach me via the links above
 
 ---
@@ -35,18 +35,18 @@ I'm a **Software Engineer** passionate about building scalable full-stack applic
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-4b0082?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-6a11cb?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-2575fc?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-8a2be2?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-4b0082?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-6a11cb?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2575fc?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-8a2be2?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-4b0082?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-6a11cb?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-2575fc?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-8a2be2?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4b0082?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-6a11cb?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2575fc?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-8a2be2?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-4b0082?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-6a11cb?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2575fc?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-8a2be2?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-4b0082?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-6a11cb?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2575fc?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-8a2be2?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
 
@@ -103,21 +103,21 @@ I'm a **Software Engineer** passionate about building scalable full-stack applic
 
 ```yaml
 Learning:
-  - Advanced System Design
-  - AI/ML Integration in Web Apps
-  - Cloud-Native Architectures
+  - Deep Learning & Neural Networks
+  - Natural Language Processing (NLP)
+  - MLOps & Model Deployment
 
 Building:
-  - Full-Stack Productivity Platforms
-  - Role-Based Enterprise Dashboards
-  - REST APIs with JWT Authentication
+  - End-to-End ML Pipelines
+  - Predictive Analytics Dashboards
+  - Data-Driven Decision Systems
 
 Exploring:
-  - Generative AI Tooling
-  - DevOps & CI/CD Pipelines
-  - Microservices Architecture
+  - Generative AI & LLMs
+  - Time Series Forecasting
+  - Cloud-Based Data Engineering
 
 OpenTo:
-  - Full-Time Software Engineering Roles
+  - Data Scientist / ML Engineer Roles
   - Open Source Collaboration
-  - AI Engineering Opportunities
+  - AI Research Opportunities
